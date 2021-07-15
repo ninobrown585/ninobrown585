@@ -6,9 +6,9 @@ Relocated to texas in search of sunshine and code!
 
 - 🔭 Currently on the journey towards a Career In the FullStack field
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 continuing to sharpen my fullstack skills while working as a webmaster.
 - 🥅 2021 and beyond Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I aspire to become a entrepreneur in the future
+- ⚡ Fun fact: Completed my first goal of being employed in the tech field.
 
 
 ### Connect with me:
